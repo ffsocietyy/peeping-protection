@@ -1,0 +1,33 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# Log/OS Files
+*.log
+*.DS_Store
+
+# Android Studio
+.idea/
+*.iml
+.externalNativeBuild
+.cxx/
+
+# Built application files
+*.dex
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Misc
+*.swp
+*.swo
