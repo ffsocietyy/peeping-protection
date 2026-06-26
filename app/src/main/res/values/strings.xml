@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Peeping Protection</string>
+    <string name="notification_title">Security Alert</string>
+    <string name="single_person_detected">Person detected in view</string>
+    <string name="multiple_people_alert">Multiple people detected!</string>
+    <string name="channel_name">Security Alerts</string>
+    <string name="channel_description">Notifications for person detection alerts</string>
+</resources>
